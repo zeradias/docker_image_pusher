@@ -1,1 +1,2 @@
-docker.io/netboxcommunity/netbox
+docker.io/redis:7-alpine
+docker.io/postgres:16-alpine
