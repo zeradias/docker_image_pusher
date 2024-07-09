@@ -1,1 +1,1 @@
-docker.io/netboxcommunity/netbox
+ghcr.io/toeverything/affine-graphql:stable
